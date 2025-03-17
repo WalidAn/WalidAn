@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Walid</h1>
 <h3 align="center">I'm a passionate **Software Development** student currently pursuing a **BTS SIO (Services Informatiques aux Organisations)**. I have a strong interest in **Java, Web Development, and Network Systems**.</h3>
 
+![381c630b05c0e00afe8f986acb8658b6](https://github.com/user-attachments/assets/fc9d2918-0f3e-4786-bd8d-61e677b6671a)
+
+
 - 🌱 I’m currently learning **- **Java** (Object-Oriented Programming, Data Structures, Algorithms) - **Web Development** (HTML, CSS, JavaScript) - **Linux & Network Administration** - **Cybersecurity Fundamentals****
 
 - 📫 How to reach me **- **Email:** [walid.ANKOUR@ortmontreuil.fr]
