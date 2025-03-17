@@ -1,9 +1,10 @@
-<h1 align="center">🚀 Hi there, I'm Walid 👋</h1>
-<h3 align="center">Software Development Student | BTS SIO | Passionate about Java, Web Development & Network Systems</h3>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6d3c5b13-4210-4a3b-90c2-0b86825ad0da" alt="Asciiquarium" />
 </p>
+
+<h1 align="center">🚀 Hi there, I'm Walid 👋</h1>
+<h3 align="center">Software Development Student | BTS SIO | Passionate about Java, Web Development & Network Systems</h3>
+
 
 ---
 
