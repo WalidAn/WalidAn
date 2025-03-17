@@ -17,7 +17,6 @@ If you have any interesting projects, feel free to reach out!
 ## 📫 How to Reach Me  
 - **Email:** [walid.ANKOUR@ortmontreuil.fr]  
 - **LinkedIn:** [linkedin.com/in/walidankour](www.linkedin.com/in/walid-a-69b484203)  
-- **GitHub:** [github.com/WalidAn](https://github.com/WalidAn)
 
 ## ⚡ Fun Fact  
 I love **problem-solving challenges and discover new things**.  
