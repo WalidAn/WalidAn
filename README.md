@@ -15,7 +15,7 @@ I'm open to working on **Java-based projects, Web Applications, and Network Secu
 If you have any interesting projects, feel free to reach out!
 
 ## 📫 How to Reach Me  
-- **Email:** [your-email@example.com]  
+- **Email:** [walid.ANKOUR@ortmontreuil.fr]  
 - **LinkedIn:** [linkedin.com/in/walidankour](www.linkedin.com/in/walid-a-69b484203)  
 - **GitHub:** [github.com/WalidAn](https://github.com/WalidAn)
 
