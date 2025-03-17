@@ -73,3 +73,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> 
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6f47f8ba-71e4-409f-88bb-d71100732235" alt="GNU Linux Bash Console ASCII Art" />
+</p>
